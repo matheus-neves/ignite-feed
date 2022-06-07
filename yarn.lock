@@ -378,6 +378,11 @@ csstype@^3.0.2:
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/csstype/-/csstype-3.1.0.tgz#4ddcac3718d787cf9df0d1b7d15033925c8f29f2"
   integrity sha1-TdysNxjXh8+d8NG30VAzklyPKfI=
 
+date-fns@^2.28.0:
+  version "2.28.0"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/date-fns/-/date-fns-2.28.0.tgz#9570d656f5fc13143e50c975a3b6bbeb46cd08b2"
+  integrity sha1-lXDWVvX8ExQ+UMl1o7a760bNCLI=
+
 debug@^4.1.0:
   version "4.3.4"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
