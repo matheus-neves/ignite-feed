@@ -24,7 +24,7 @@ const posts = [
       },
       {
         type: 'link',
-        content: '<a href="#">jane.design/doctorcare</a>'
+        content: 'jane.design/doctorcare'
       }
     ],
     publishedAt: new Date('2022-06-05 20:00:00')
@@ -47,7 +47,7 @@ const posts = [
       },
       {
         type: 'link',
-        content: '<a href="#">jane.design/doctorcare</a>'
+        content: 'jane.design/doctorcare'
       }
     ],
     publishedAt: new Date('2022-06-06 10:00:00')
